@@ -1,0 +1,10 @@
+@import "tailwindcss";
+/* @import "tailwindcss/utilities"; */
+/* @import "tailwindcss/base"; */
+/* @import "tailwindcss/componenets"; */
+@custom-variant hover (&:hover);
+
+/* 
+body{
+    background: #000;
+} */
