@@ -9,12 +9,12 @@ This is my first project built using Vue 3 with the Composition API. It demonstr
 
 📦 Manage app state with Pinia
 
-🛠 Tech Stack
-## Vue 3 (Composition API)
+# 🛠 Tech Stack
+### Vue 3 (Composition API)
 
-## Vue Router
+### Vue Router
 
-## Pinia
+### Pinia
 
 # 🚀 Features
 Home page displaying dummy blog posts
